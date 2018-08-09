@@ -1,5 +1,5 @@
 # Lấy dự án về máy 
-> git clone https://github.com/fullstackvietnam/fs-01-web-basic.git
+> git clone https://github.com/fullstackvietnam/fs-02-web-bayba.git
 # Chạy dự án
 - Update Node Modules
 > npm i 
